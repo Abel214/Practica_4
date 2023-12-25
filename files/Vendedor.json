@@ -1,0 +1,248 @@
+{
+    "Controlador.Listas.DynamicList": {
+        "header": {
+            "info": {
+                "@class": "Modelo.Vendedor",
+                "nombre": " Abel",
+                "apellido": " Mora",
+                "cedula": " 11005532335",
+                "numero": " 0982991517",
+                "id": 1,
+                "edad": " 19",
+                "ruc": " 0296537341001"
+            },
+            "next": {
+                "info": {
+                    "@class": "Modelo.Vendedor",
+                    "nombre": " Darwin",
+                    "apellido": "Granda",
+                    "cedula": " 902034952425",
+                    "numero": " 34243254324",
+                    "id": 2,
+                    "edad": " 21",
+                    "ruc": " 32432432432432"
+                },
+                "next": {
+                    "info": {
+                        "@class": "Modelo.Vendedor",
+                        "nombre": " Elias",
+                        "apellido": " Poma",
+                        "cedula": " 1109504959",
+                        "numero": " 09384984",
+                        "id": 3,
+                        "edad": " 21",
+                        "ruc": " 20123456789"
+                    },
+                    "next": {
+                        "info": {
+                            "@class": "Modelo.Vendedor",
+                            "nombre": " Alexander",
+                            "apellido": " Sanchez",
+                            "cedula": "110509609 ",
+                            "numero": " 084985980",
+                            "id": 4,
+                            "edad": " 19",
+                            "ruc": " 30198765432"
+                        },
+                        "next": {
+                            "info": {
+                                "@class": "Modelo.Vendedor",
+                                "nombre": " Darwin",
+                                "apellido": " Sarango",
+                                "cedula": " 1108495095",
+                                "numero": " 094859895",
+                                "id": 5,
+                                "edad": " 19",
+                                "ruc": " 40234567890"
+                            },
+                            "next": {
+                                "info": {
+                                    "@class": "Modelo.Vendedor",
+                                    "nombre": " Stevn",
+                                    "apellido": " Luna",
+                                    "cedula": " 11089548589",
+                                    "numero": "0893498548",
+                                    "id": 6,
+                                    "edad": " 20",
+                                    "ruc": "50321098765 "
+                                },
+                                "next": {
+                                    "info": {
+                                        "@class": "Modelo.Vendedor",
+                                        "nombre": "Stiven ",
+                                        "apellido": " Jimenez",
+                                        "cedula": " 1109409409",
+                                        "numero": " 0930949409",
+                                        "id": 7,
+                                        "edad": " 22",
+                                        "ruc": " 60456789012"
+                                    },
+                                    "next": {
+                                        "info": {
+                                            "@class": "Modelo.Vendedor",
+                                            "nombre": " Eric",
+                                            "apellido": "Morales ",
+                                            "cedula": " 110890949",
+                                            "numero": " 038948948894",
+                                            "id": 8,
+                                            "edad": " 45",
+                                            "ruc": " 70543210987"
+                                        },
+                                        "next": {
+                                            "info": {
+                                                "@class": "Modelo.Vendedor",
+                                                "nombre": "Brian",
+                                                "apellido": "Aguinsaca ",
+                                                "cedula": " 11094059095",
+                                                "numero": " 094804899409",
+                                                "id": 9,
+                                                "edad": " 19",
+                                                "ruc": " 80678901234"
+                                            },
+                                            "next": {
+                                                "info": {
+                                                    "@class": "Modelo.Vendedor",
+                                                    "nombre": " Maria",
+                                                    "apellido": " Del Cisne",
+                                                    "cedula": " 11095956096",
+                                                    "numero": " 0940954095",
+                                                    "id": 10,
+                                                    "edad": " 20",
+                                                    "ruc": " 90765432109"
+                                                },
+                                                "next": {
+                                                    "info": {
+                                                        "@class": "Modelo.Vendedor",
+                                                        "nombre": " Alex",
+                                                        "apellido": " Torres",
+                                                        "cedula": " 1109405959",
+                                                        "numero": " 094094959",
+                                                        "id": 11,
+                                                        "edad": " 20",
+                                                        "ruc": " 10012345678"
+                                                    },
+                                                    "next": {
+                                                        "info": {
+                                                            "@class": "Modelo.Vendedor",
+                                                            "nombre": " Alexia",
+                                                            "apellido": " Jimenez",
+                                                            "cedula": " 119040954590",
+                                                            "numero": " 09498958598",
+                                                            "id": 12,
+                                                            "edad": " 20",
+                                                            "ruc": " 11098765432"
+                                                        },
+                                                        "next": {
+                                                            "info": {
+                                                                "@class": "Modelo.Vendedor",
+                                                                "nombre": " Maria",
+                                                                "apellido": " Elena",
+                                                                "cedula": "1104950950 ",
+                                                                "numero": " 0499595959",
+                                                                "id": 13,
+                                                                "edad": " 34",
+                                                                "ruc": " 12023456789"
+                                                            },
+                                                            "next": {
+                                                                "info": {
+                                                                    "@class": "Modelo.Vendedor",
+                                                                    "nombre": " Antonio",
+                                                                    "apellido": " Valencia",
+                                                                    "cedula": " 1104905959",
+                                                                    "numero": " 0499459509",
+                                                                    "id": 14,
+                                                                    "edad": " 58",
+                                                                    "ruc": " 13098765432"
+                                                                },
+                                                                "next": {
+                                                                    "info": {
+                                                                        "@class": "Modelo.Vendedor",
+                                                                        "nombre": " Saul",
+                                                                        "apellido": " Lopez",
+                                                                        "cedula": " 11094095095",
+                                                                        "numero": " 09409409590",
+                                                                        "id": 15,
+                                                                        "edad": " 42",
+                                                                        "ruc": " 14034567890"
+                                                                    },
+                                                                    "next": {
+                                                                        "info": {
+                                                                            "@class": "Modelo.Vendedor",
+                                                                            "nombre": "Cristian ",
+                                                                            "apellido": " Agila",
+                                                                            "cedula": " 11094095095",
+                                                                            "numero": "004859859",
+                                                                            "id": 16,
+                                                                            "edad": " 50",
+                                                                            "ruc": " 15021098765"
+                                                                        },
+                                                                        "next": {
+                                                                            "info": {
+                                                                                "@class": "Modelo.Vendedor",
+                                                                                "nombre": " Mishell",
+                                                                                "apellido": " Villavicencio",
+                                                                                "cedula": " 11093095059",
+                                                                                "numero": " 0940599595",
+                                                                                "id": 17,
+                                                                                "edad": " 19",
+                                                                                "ruc": " 16045678901"
+                                                                            },
+                                                                            "next": {
+                                                                                "info": {
+                                                                                    "@class": "Modelo.Vendedor",
+                                                                                    "nombre": " Roberto",
+                                                                                    "apellido": " Carlos",
+                                                                                    "cedula": " 1109405959",
+                                                                                    "numero": " 09409595950",
+                                                                                    "id": 18,
+                                                                                    "edad": " 45",
+                                                                                    "ruc": "17054321098 "
+                                                                                },
+                                                                                "next": {
+                                                                                    "info": {
+                                                                                        "@class": "Modelo.Vendedor",
+                                                                                        "nombre": "Juan",
+                                                                                        "apellido": " Valarezo",
+                                                                                        "cedula": " 11049509",
+                                                                                        "numero": "094985985 ",
+                                                                                        "id": 19,
+                                                                                        "edad": " 57",
+                                                                                        "ruc": " 18067890123"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "info": {
+                                                                                            "@class": "Modelo.Vendedor",
+                                                                                            "nombre": "Victor ",
+                                                                                            "apellido": " Torres",
+                                                                                            "cedula": "11049049509 ",
+                                                                                            "numero": " 09409595095",
+                                                                                            "id": 20,
+                                                                                            "edad": " 25",
+                                                                                            "ruc": " 19076543210"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/header\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "length": 20
+    }
+}
